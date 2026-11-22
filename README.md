@@ -7,7 +7,7 @@ kit's default file blueprint also converts uploads to WebP.
 
 ## Installation
 
-Requires PHP 8.5 and Kirby 5.6.1 or later within Kirby 5.
+Requires PHP 8.5 and Kirby 6.
 The Composer package is `zeimoto/image` and installs into
 `site/plugins/zeimoto-image`. Release versions come from Git tags.
 
